@@ -67,7 +67,7 @@ stack-data==0.6.2
 sympy==1.12
 termcolor==2.3.0
 threadpoolctl==3.1.0
-tokenizers==0.13.3
+tokenizers==0.5.2
 torch==2.0.1
 torchsummary==1.5.1
 tqdm==4.65.0
